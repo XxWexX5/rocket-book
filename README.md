@@ -5,4 +5,4 @@ Projeto do Bootcamp de React
 <img src="https://i.ibb.co/k4Pvvfb/design-think.jpg" />
 
 ### Layout Final
-<img src="https://i.ibb.co/DKLyMxF/final-rocket-Book.png" />
+[![rocket-book.png](https://i.postimg.cc/XN5qQKF5/rocket-book.png)](https://postimg.cc/Jt1Rhkp7)
